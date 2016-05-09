@@ -1,0 +1,23 @@
+{
+  "name": "reactmenu",
+  "version": "1.0.0",
+  "description": "A sample menu site built in react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsbst23/ReactMenu.git"
+  },
+  "keywords": [
+    "react",
+    "training"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsbst23/ReactMenu/issues"
+  },
+  "homepage": "https://github.com/rsbst23/ReactMenu#readme"
+}
